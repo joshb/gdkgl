@@ -1,0 +1,5 @@
+This is just a bit of code I had written back in the GTK+ 2.0 days (sometime
+in 2003) to support the use of OpenGL within GTK+ applications. I had proposed
+including it with GTK+ and there was some interest, but it was decided in the
+end that external libraries like gtkglext should be used instead for mixing
+OpenGL with GTK+.
